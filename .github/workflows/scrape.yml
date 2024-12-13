@@ -1,0 +1,42 @@
+name: "Scrape"
+
+on:
+  # Manually trigger the workflow  
+  workflow_dispatch:
+  # Or on a schedule
+  schedule:
+  - cron: "0 20 * * *"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+
+    - uses: actions/checkout@v4
+
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.12"
+
+    - name: Install dependencies
+      run: |
+        pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Execute
+      run: python scrape.py
+
+    # You need to commit the changes to the repository
+    # to keep the dataset up to date.
+    # But you must grant the necessary permissions to the workflow.
+    # https://github.com/[username]/[repo]/settings/actions
+    # Workflow permissions > Read and write permissions
+    - name: Commit changes
+      run: |
+        git config --global user.email "antonio.feregrino+datasets@gmail.com"
+        git config --global user.name "Antonio Feregrino"
+        git add data/
+        git diff --staged --quiet || git commit -m 'New entries'
+        git push
