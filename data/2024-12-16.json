@@ -1,5 +1,819 @@
 [
     {
+        "title": "Inaccurate provisional Local Government Finance Settlement reporting",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2024-12-19T17:36:31",
+        "categories": [
+            "Council finance"
+        ],
+        "content": [
+            {
+                "content": "There has been media reporting suggesting allocations set out in our provisional Local Government Finance Settlement will mean Shire districts or \u2018more rural\u2019 councils are being treated unfavourably.",
+                "tag": "p"
+            },
+            {
+                "content": "This is not correct, and does not account for the over \u00a34 billion of funding committed to local government services. The provisional Local Government Finance Settlement alone ensures that no council will see a reduction in their Core Spending Power, and places with a significant rural population will on average receive around a 5% increase in their Core Spending Power. Across England, \u00a369 billion will be made available for councils - which is a real-terms increase of 3.5% from 2024-25.",
+                "tag": "p"
+            },
+            {
+                "content": "The new \u00a3600 million Recovery Grant is a highly targeted, one-off emergency payment for the places that need it most with funding being determined based on deprivation and council tax raising ability, taking into account population. The government has been clear and transparent with the full methodology of the Grant allocations available on Gov.uk.",
+                "tag": "p"
+            },
+            {
+                "content": "In addition, councils in England will receive \u00a31.1 billion in new funding from the Extended Producer Responsibility for packaging scheme (pEPR), which will be a significant funding increase for all councils including shire districts. Indeed, the Institute for Fiscal Studies has estimated that pEPR payments will amount to the equivalent to 7.8% of Core Spending Power across all shire districts, and even more for the shire districts serving the most rural areas.",
+                "tag": "p"
+            },
+            {
+                "content": "Reporting of council tax increases in response to the Settlement are purely speculative, with individual local authorities being responsible for setting their council tax levels. We are maintaining the previous government\u2019s referendum threshold for council tax at 3% with 2% for the adult social care precept to protect local taxpayers.",
+                "tag": "p"
+            },
+            {
+                "content": "We have been clear on our commitment to fix the foundations of local government and the need for longer-term reform to the outdated system to distribute funding more fairly, make better use of public of public money and deliver high-quality services across the country. But these changes cannot happen overnight which is why we will be giving the sector a say on fixing the system and from 2026-27.",
+                "tag": "p"
+            },
+            {
+                "content": "Minister of State for Local Government and English Devolution Jim McMahon said:\u00a0 \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe know councils are calling out for help which is why we have prioritised this vital increase in funding, but we must stop taxpayers\u2019 money being thrown into a broken system.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cAs a former council leader I know too well that councils have suffered from short-term solutions. But we will fix this outdated system, turning to our partners in local government, working hand in hand to bring ambitious reform and do the long-term, necessary work to rebuild the foundations, and crucially, trust.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The government will provide confirmation of the final local government finance settlement once the four-week consultation has closed and all responses have been considered in early 2025.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2024/12/19/inaccurate-provisional-local-government-finance-settlement-reporting/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "There has been media reporting suggesting allocations set out in our provisional Local Government Finance Settlement will mean Shire districts or \u2018more rural\u2019 councils are being treated unfavourably. This is not correct, and does not account for the over \u00a34 \u2026"
+    },
+    {
+        "title": "New Roles in the Gamma Trust Framework\u00a0\u00a0",
+        "authors": [
+            "Charlie Smith",
+            "Victoria Baines"
+        ],
+        "posted_on": "2024-12-19T13:16:08",
+        "categories": [
+            "Digital identity",
+            "UK digital identity and attributes trust framework"
+        ],
+        "content": [
+            {
+                "content": "Last month, we pre-released the gamma (0.4) publication of the trust framework. One of the main changes in this publication is the introduction of two new roles: the holder service provider and component service provider.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This blog post takes a closer look at what these new roles do, why we introduced them, and how they support providers looking to get certified against this new publication.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Roles in the trust framework\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "To be certified against the trust framework, a service must fulfil at least one of the high-level \u2018roles\u2019 that OfDIA has defined. The range of roles reflects the diversity of products and services in the digital identity market, and providers need only demonstrate that their services follow the rules that apply to the role or roles that they fulfil.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This flexibility helps the trust framework support innovative approaches while remaining outcomes-focused and technology-agnostic.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In the gamma trust framework, there are now five different roles:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Better reflecting the shape of the market\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In previous versions of the trust framework, only the first three of these roles existed. Services offering holder and component functions were still accommodated, but as sub-types of the old IDSP role, which was more broadly defined.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "However, given the breadth of the old IDSP role, we heard it was not always clear which rules applied to some kinds of providers.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For instance, requirements around managing users\u2019 accounts didn\u2019t make sense for IDSPs offering a \u2018one and done\u2019 service. Similarly, certification as IDSPs didn\u2019t suit providers that offered only component parts of a wider service, such as a specialist fraud monitoring function.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By splitting-out the holder and component service provider roles in the gamma publication, our primary aim was to provide greater clarity for these kinds of providers. This should make it easier to ensure that services are meeting the right certification requirements.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The CSP role, in particular, should also help increase supply chain transparency. Many end-to-end services already contain elements sourced from specialist third-party providers, like the fraud checks and face scans mentioned above.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "And, while there will be no need for every one of those parts to be certified under the gamma trust framework, end-to-end services that work with certified CSPs may find it easier and cheaper to prove compliance during their own certifications, as these parts will already have met the trust framework\u2019s standards.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Certification and multiple roles\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Services will still be able to be certified against multiple roles under the trust framework, as they always have done. The gamma publication just makes the distinctions clearer. For example, a digital wallet that derives a new attribute from identity information it was holding, such as a user\u2019s age from their date of birth, would be both an ASP and HSP.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Where an end-to-end service like this fulfils multiple roles, it will continue to need to be certified against all requirements for those roles.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Conformity Assessment Bodies will work with providers to understand the scope of the evaluations they need to perform, including which role(s) a provider is fulfilling. Certificates from Conformity Assessment Bodies will also continue to specify which role(s) a service has been certified against, so that relying parties and users can be sure exactly what services providers offer.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Do you have questions or feedback?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The introduction of these two new roles is a big step for the trust framework, and we want to know what you think. If you any have feedback or questions, please get in touch.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2024/12/19/new-roles-in-the-gamma-trust-framework/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "Last month, we pre-released the gamma (0.4) publication of the trust framework. One of the main changes in this publication is the introduction of two new roles: the holder service provider and component service provider.\u00a0\u00a0 This blog post takes a \u2026"
+    },
+    {
+        "title": "A long distance relationship: Upgrading the Falkland Islands",
+        "authors": [
+            "Dot Larmour"
+        ],
+        "posted_on": "2024-12-19T12:46:23",
+        "categories": [
+            "BFSAI",
+            "Falkland Islands",
+            "Worthy Down"
+        ],
+        "content": [
+            {
+                "content": "I\u2019ve been working in the Falkland Islands for six months in what is now my fourth continuity tour to the Falklands. It\u2019s an interesting place to live and work and being so far from the UK adds significant challenges to the work of DIO.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The team here recently welcomed DIO Chief Executive Mike Green, accompanied by some other senior staff, for his first visit to the islands to see what we contribute and what it\u2019s like to live and work so far from our home base in the UK.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Redeveloping the Falklands",
+                "tag": "h2"
+            },
+            {
+                "content": "We are nearing the end of a 10-year construction programme which has seen DIO deliver a number of projects on behalf of, and with, various organisations. These include UK Strategic Command, Defence Equipment and Support and of course, the Falkland Islands Government.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The programme represents a significant investment towards maintaining the operational capability of the air, maritime and Army assets deployed to the UK overseas territory.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some of the projects completed in this period include building the Mare Harbour jetty, a new primary school, support for a ground-based air defence system, installing a district heating system, improvements to the swimming pool and building infrastructure for three air defence radar sites known as remote radar heads. ",
+                "tag": "p"
+            },
+            {
+                "content": "In the next six months it is anticipated further projects will be completed: the new power station; remote radar head accommodation at Mt Byron on the Western Falkland Islands; refurbishment of the main aircraft hangar to house the A400M Maritime Patrol Aircraft, and more runway repair work.\u00a0It was great to be able to show off progress to Mike and explain the benefits these projects will have.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Challenges of remote work",
+                "tag": "h2"
+            },
+            {
+                "content": "Working and living in the Falklands is a unique experience. Being 8,000 miles from the UK, delivering the core contract and projects can be challenging. As well as the time difference and distance from the UK, the communications network has limitations to the bandwidth resulting in near impossible comms back to the UK. Additionally, the weather can be very harsh, leaving only a small window of opportunity available to undertake external construction.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Careful logistical planning is needed as all material, supplies and most personnel needed to facilitate construction works arrive either by sea through the Falkland Island Resupply Ship, typically one every two months, or via the twice-weekly South Atlantic Air Bridge from RAF Brize Norton. Due to a weather phenomena called \u201crotors\u201d, the air bridge is often subjected to delays or cancelations which impacts specialist contractor\u2019s availability to come to site.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If it turns out we need some equipment that wasn\u2019t accounted for, it could take weeks or months to arrive - at significant cost - so it\u2019s particularly important to get it right first time. The challenges of living and working so far away fosters a closeness and a real \u2018can do\u2019 attitude among the team. As a civil engineer by trade, Mike was interested in these practicalities of working in the Falkland Islands and how we problem solve.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re also aware that the small community, both military and civilian, means that the work we do can have an especially significant impact. This is particularly true in even more distant areas like the remote radar heads, where there is nothing for miles around, but it applies everywhere on the islands. The swimming pool improvements, for example, benefit both service personnel and their families at the Mount Pleasant Complex. Unlike in the UK where they may have dozens of other options for activities, something like the swimming pool can be extremely important for our community and it\u2019s always important for us to keep that in mind.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ultimately though, our job is to support military capability and the investment in the Falkland Islands over the last decade really shows that we are doing that. We look forward to wrapping up a few more projects in the coming months and then I\u2019m sure there\u2019ll be plenty more to get our teeth into!\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insideDIO.blog.gov.uk/2024/12/19/a-long-distance-relationship-upgrading-the-falkland-islands/",
+        "blog": "Inside DIO",
+        "blog_link": "https://insideDIO.blog.gov.uk",
+        "description": "I\u2019ve been working in the Falkland Islands for six months in what is now my fourth continuity tour to the Falklands. It\u2019s an interesting place to live and work and being so far from the UK adds significant challenges to \u2026"
+    },
+    {
+        "title": "Dartmoor Land Use Management Group: next steps",
+        "authors": [
+            "Phil Stocker"
+        ],
+        "posted_on": "2024-12-19T12:40:31",
+        "categories": [
+            "Farming and Countryside Programme",
+            "Guest post"
+        ],
+        "content": [
+            {
+                "content": "In October, we appointed the Independent Chair for the Dartmoor Land Use Management Group (DLUMG), Phil Stocker.",
+                "tag": "p"
+            },
+            {
+                "content": "The group will develop a land use framework and land use plan for this internationally significant site. It will also provide oversight and steward the delivery of the 25 recommendations put forward in our response to the Independent review of protected site management on Dartmoor.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In this guest post, Phil shares insights into his role, the published terms of reference, membership, and next steps for the group.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I am honoured to have been appointed as the Independent Chair of the Dartmoor Land Use Management Group (DLUMG). ",
+                "tag": "p"
+            },
+            {
+                "content": "This is a responsibility I take very seriously, as it provides an opportunity to tackle the complex and vital task of managing land use on Dartmoor in a way that benefits both people and nature. Dartmoor is one of England\u2019s most iconic landscapes, valued for its open moorland, wooded valleys, and rich history and culture.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today we\u2019ve published the group's terms of reference, where you can find information on our purpose, objectives, governance and more. This and all other information related to the DLUMG will be available on our upcoming website.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As Chair, I will be leading this group and its day-to-day running, with the support of Simon Lunniss who has been seconded to the group from the Rural Payments Agency (RPA).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The DLUMG will act as a forum to build strong relationships, creating a culture of open decision making with effective governance. The group brings together farmers, landowners and commoners, Natural England, environmental NGOs and other key stakeholders, including a wider network of specialists.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Purpose of the group\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The DLUMG will seek to implement the 25 recommendations attributed to the group in the government response to the Dartmoor Review.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The recommendations include strengthening the governance of Dartmoor\u2019s commons, supporting sustainable land management practices, and fostering collaboration among stakeholders. Read more about the purpose of the group.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Members of the group\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The membership of the DLUMG is being carefully structured in collaboration with Defra to ensure balanced representation from key stakeholder groups, including farming, conservation, community, and local governance. The group will also include academic and research interests and relevant government agencies.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I believe this diverse representation is essential to making the right decisions and delivering the best future for Dartmoor.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There will be wider involvement and inclusion via a series of working groups that will work on specific topics relating to the 25 recommendations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I am in the process of finalising membership of the group in collaboration with Defra, and we will provide a full list of members as soon as they are confirmed. I hope to confirm the members in the new year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The members of the DLUMG are not formal public appointments, and the DLUMG is not a formal public body. Read more about the terms of membership.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our First Meeting\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The first meeting of the DLUMG will be an important step in setting the tone and direction for the group\u2019s work. This is planned for the second half of January 2025, once all group members have been confirmed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will focus on clarifying our shared objectives, understanding the challenges we face, and agreeing on how we can work collaboratively to deliver meaningful outcomes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "During this meeting, we will begin discussing priorities for the Dartmoor Land Use Framework and Landscape Delivery Plan.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This framework will guide the group\u2019s efforts in developing a sustainable and balanced strategy for Dartmoor.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking Ahead\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Recent years have highlighted the challenges facing Dartmoor. Balancing farming and food production with environmental stewardship has become increasingly difficult, with economics, climate change and biodiversity loss adding further pressures.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will ensure Dartmoor\u2019s strategy aligns with broader Government objectives for sustainability and environmental improvement by working closely with Defra on forthcoming national initiatives.",
+                "tag": "p"
+            },
+            {
+                "content": "The first quarterly report for DLUMG can be expected in March 2025.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The success of the DLUMG will depend on collaboration and consensus.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "My goal as Chair is to ensure all voices are heard, and our work reflects the needs of Dartmoor\u2019s farming, environmental, conservation, and local communities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I look forward to helping to create a sustainable and balanced future for Dartmoor.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Please contact DLUMG@defra.gov.uk if you have any questions or queries.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2024/12/19/dartmoor-land-use-management-group-next-steps/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "In October, we appointed the Independent Chair for the Dartmoor Land Use Management Group (DLUMG), Phil Stocker. In this guest post, Phil shares insights into his role, the published terms of reference, membership, and next steps for the group.\u00a0"
+    },
+    {
+        "title": "Largest ever cash boost to tackle homelessness and rough sleeping",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2024-12-19T09:55:58",
+        "categories": [
+            "Homelessness"
+        ],
+        "content": [
+            {
+                "content": "There has been prominent national and regional coverage following our announcement this week which confirms councils across England will receive almost \u00a31 billion of new funding next year, including the largest-ever investment in homelessness prevention services, to get the country back on track to end homelessness for good.",
+                "tag": "p"
+            },
+            {
+                "content": "This was positively picked up in Sky News, The Independent and The Big Issue as well as trade coverage including Inside Housing and Housing Today. They all report about the new cash injection that will better equip councils to step in early to stop households becoming homeless in the first place and help get rough sleepers off the street and into secure housing. This is alongside new funding to support workers on the frontline providing essential services to tackle, reduce and prevent homelessness across the country.",
+                "tag": "p"
+            },
+            {
+                "content": "Regional papers including Manchester Evening News, Liverpool Echo, Northampton Chronicle, Blackpool Gazette, Yorkshire Post, Telegraph & Argus, and London Evening Standard have focused on the specific funding allocations and grants for their respective areas. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Too many homeless families have been forced into temporary accommodation for far too long, and next year\u2019s funding will deliver the first of many steps in the government\u2019s long-term plan to turn the tide on homelessness. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Deputy Prime Minister and Secretary of State for Housing, Angela Rayner said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cToo many people have been failed by the system time and again.160,000 children face spending this Christmas without a stable place to call home. I am determined to break the cycle of spiralling homelessness and get back on track to ending it for good.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis largest-ever investment marks a turning point, giving councils the tools they need to act quickly and put in place support for people to tackle, reduce and prevent homelessness. It\u2019s time to turn the tide.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis historic funding comes alongside our work developing a cross-government strategy back on track to end homelessness, pulling every lever of the state, to ensure that we deliver not just sticking plasters but a long-term plan.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThrough our Plan for Change I\u00a0am determined to tackle the housing crisis we inherited head on, building the homes we need, delivering\u00a0the biggest boost in social and affordable housing in a generation and ending no fault evictions.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Minister for Homelessness, Rushanara Ali said:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe have inherited the worst housing crisis in living memory that has left far too many families trapped in temporary accommodation with no end in sight and soaring numbers of people sleeping rough on our streets.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis is the dire legacy we have inherited as a government, and we are fully determined to take immediate action. Our funding will not only support councils delivering vital services that meet the needs of their communities but also pave the way for our long-term plan to get us back on track to end homelessness once and for all.\u201d\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2024/12/19/largest-every-cash-boost-to-tackle-homelessness-and-rough-sleeping/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "There has been prominent national and regional coverage following our announcement this week which confirms councils across England will receive almost \u00a31 billion of new funding next year, including the largest-ever investment in homelessness prevention services, to get the country \u2026"
+    },
+    {
+        "title": "Conservation covenants: a new tool to support nature recovery",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2024-12-19T09:53:31",
+        "categories": [
+            "Nature",
+            "Sustainability"
+        ],
+        "content": [
+            {
+                "content": "The Environment Agency is delighted to have been designated as a responsible body for conservation covenants. This new tool will help us in our work to protect and enhance nature in England.",
+                "tag": "p"
+            },
+            {
+                "content": "The bigger picture: the importance of nature",
+                "tag": "p"
+            },
+            {
+                "content": "We rely on nature for almost everything we need. It provides food, renewable energy, and social spaces for leisure and exercise. Trees and plants help to clean the air we breathe and store carbon dioxide. Natural landscapes can slow the flow of water which can reduce the risk and impacts of floods. These are just a few simple examples of the huge variety of services and benefits that nature provides. But nature is increasingly threatened by pressures such as climate change, pollution, and land use change.",
+                "tag": "p"
+            },
+            {
+                "content": "What is a conservation covenant?",
+                "tag": "p"
+            },
+            {
+                "content": "Conservation covenants are a new legal tool, introduced by the Environment Act 2021, that can be used to conserve natural, or heritage features of the land in England. They are private, voluntary agreements between a designated responsible body and a landowner (or leaseholder) to deliver lasting conservation benefits. Each conservation covenant will describe what the responsible body and landowner will do to help conserve the land for public good. They are bespoke agreements so they can be tailored to suit different circumstances. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Conservation covenants may provide certainty and assurance that environmental outcomes will be realised, and that land will be managed in a particular way. Conservation covenants could therefore enable individual landowners or leaseholders to play an active role in protecting nature, whilst potentially also supporting opportunities to generate an income from carrying out environmentally friendly actions.",
+                "tag": "p"
+            },
+            {
+                "content": "Why has the Environment Agency become a responsible body?",
+                "tag": "p"
+            },
+            {
+                "content": "The Environment Agency was established to protect and improve the environment. Our EA2025 plan sets out three key goals:",
+                "tag": "p"
+            },
+            {
+                "content": "Conservation covenants provide us with an additional tool to support what we do. We will be able to enter into conservation covenants with landowners to secure environmental outcomes and protect nature. For example, a conservation covenant could be put in place to secure the restoration of a saltmarsh or the creation and management of a new wetland habitat.",
+                "tag": "p"
+            },
+            {
+                "content": "As conservation covenants are legal agreements that bind successive landowners, the commitment to conservation remains with the land even if it is sold or passed on. Conservation covenants offer the potential to ensure that the work that we do, in collaboration with partners, local communities, individual landowners, and land managers, will last into the future and continue to benefit both the environment and people.",
+                "tag": "p"
+            },
+            {
+                "content": "Introducing conservation covenants into the Environment Agency\u2019s \u2018toolkit\u2019",
+                "tag": "p"
+            },
+            {
+                "content": "Conservation covenants have the potential to be used for a wide variety of purposes. The Environment Agency will initially explore this with a small number identified through existing work areas and projects. The learning we gather will inform our longer-term approach to entering into conservation covenants as a responsible body. At this stage, we are therefore not seeking additional opportunities for the Environment Agency to be the responsible body for a conservation covenant from landowners or other parties. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We look forward to sharing further updates on how the Environment Agency is utilising conservation covenants as a responsible body, to support our work to protect and improve the environment, in due course.",
+                "tag": "p"
+            },
+            {
+                "content": "Who are the other designated responsible bodies?",
+                "tag": "p"
+            },
+            {
+                "content": "The Environment Agency is pleased to be joining a number of other organisations that have achieved responsible body status this year. View the list of designated responsible bodies on gov.uk.",
+                "tag": "p"
+            },
+            {
+                "content": "Where can I find out more?",
+                "tag": "p"
+            },
+            {
+                "content": "Visit gov.uk for more information and guidance about conservation covenants and responsible bodies. Take a look at the Environment Agency Chief Scientist's Group report, \u2018Working with Nature\u2019, to learn more about the importance of nature, the reasons for its decline, and how nature-based solutions can be used to combat the climate and nature crises.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2024/12/19/conservation-covenants-a-new-tool-to-support-nature-recovery/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "The Environment Agency is delighted to have been designated as a responsible body for conservation covenants. This new tool will help us in our work to protect and enhance nature in England. The bigger picture: the importance of nature We \u2026"
+    },
+    {
+        "title": "Services Week is back for 2025",
+        "authors": [
+            "Ella Boyer - Senior Communications and Events Manager, CDDO",
+            "Dani Wise - Content Designer, DWP",
+            "Lisa Jeffery \u2013 Design Manager, Defra"
+        ],
+        "posted_on": "2024-12-19T09:48:35",
+        "categories": [
+            "Events",
+            "Service transformation"
+        ],
+        "content": [
+            {
+                "content": "Technological advances are changing the way people interact with services. People expect more from government and our services need to keep pace with this change. Designing effective public services starts with innovation, a strong understanding of what people need from services, and close collaboration between different teams and specialisms. Services Week is an opportunity to share, to learn and to collaborate, all with the aim of transforming lives through high quality, technology-powered services.",
+                "tag": "p"
+            },
+            {
+                "content": "What is Services Week?",
+                "tag": "h2"
+            },
+            {
+                "content": "Services Week is an annual event hosted by the Government Digital and Data community, bringing together professionals from across the UK public sector. Now in its seventh year, Services Week 2025 will take place from 17 to 21 March 2025 and will explore public services through the lenses of digital innovation and service design. The events are open to participants from all sectors and backgrounds, encouraging diverse perspectives and collaboration.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sessions at Services Week are created by the community, for the community, and we want you to be a part of it. Last year, the event featured over 60 sessions, including \u2018Introduction to Service Design\u2019 training by HM Revenue and Customs (HMRC), a look at website and service design challenges in local government programs by Birmingham City Council, and a \u2018Greener Services Hack Day\u2019 hosted by the Department for the Environment, Food and Rural Affairs (Defra). Check back in the new year for details on how to submit your session and register for the upcoming events.",
+                "tag": "p"
+            },
+            {
+                "content": "Who is it for?",
+                "tag": "h2"
+            },
+            {
+                "content": "Services Week 2025 is for all civil servants and public sector employees. You\u2019ll have the opportunity to both host your own sessions and attend those led by others throughout the week. It\u2019s a great opportunity for you to see the fantastic services that are being delivered across the public sector.",
+                "tag": "p"
+            },
+            {
+                "content": "The theme: People-centred services",
+                "tag": "h2"
+            },
+            {
+                "content": "This year\u2019s theme is \u2018People-centred services\u2019. At the core of all public sector services are the people we serve. This theme will allow you to explore the connections between service providers and the communities they support.",
+                "tag": "p"
+            },
+            {
+                "content": "When is it?",
+                "tag": "h2"
+            },
+            {
+                "content": "Week commencing 17 March to 21 March 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "Services Week 2025 sessions",
+                "tag": "h2"
+            },
+            {
+                "content": "Services Week 2025 will see an exciting line-up of sessions that will highlight the best of people-centred services. Some of the the sessions in development for this year are: ",
+                "tag": "p"
+            },
+            {
+                "content": "Stay tuned as the agenda develops.",
+                "tag": "p"
+            },
+            {
+                "content": "Why take part and what you could do",
+                "tag": "h2"
+            },
+            {
+                "content": "Sessions can be run as online, hybrid or in-person events. Choices around session formats are yours. Tools, timings and attendance of sessions will differ depending on the outcomes you seek. You can run something live between 17 and 21 March 2025 or pre-record a session such as a webinar or podcast to release during the week itself. Session formats change every year but often include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Always consider inclusivity, security and how people will sign up for your sessions. It might help to contact your own events team for advice on what best suits your organisation. GOV.UK has guidance on accessible communication formats. Adding your session to the Services Week 2025 playlist, which will be available from January, is another way to increase access. You can read what people had to say about Services Week 2024 in this blog post.",
+                "tag": "p"
+            },
+            {
+                "content": "Contact Ella Boyer to get involved.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://services.blog.gov.uk/2024/12/19/services-week-is-back-for-2025/",
+        "blog": "Services in government",
+        "blog_link": "https://services.blog.gov.uk",
+        "description": "Services Week is an annual event hosted by the Government Digital and Data community, bringing together professionals from across the UK public sector. "
+    },
+    {
+        "title": "Artificial Intelligence: must-have skills for the future",
+        "authors": [
+            "Tommaso Spinelli, Senior Artificial Intelligence Change Manager, CDDO",
+            "Sarah Parry, Learning Design and Pathways Delivery Manager Lead, CDDO"
+        ],
+        "posted_on": "2024-12-19T09:34:30",
+        "categories": [
+            "AI",
+            "CDDO",
+            "Cross-government strategy",
+            "Digital transformation",
+            "Government Digital and Data"
+        ],
+        "content": [
+            {
+                "content": "Over 70 new AI e-learning courses were released on Civil Service Learning in response to departments\u2019 increasing use of Artificial intelligence (AI) and the pace of change in this technology. These courses build on the Generative AI Framework for HMG published earlier this year.",
+                "tag": "p"
+            },
+            {
+                "content": "As AI transforms how government operates, comprehensive AI training for civil servants has become crucial. This training ensures that public servants can harness AI's potential for improved efficiency and enhanced public service delivery while maintaining the highest standards of ethics and responsibility. With generative AI offering new capabilities in text and image creation, civil servants must understand how to use these tools effectively while adhering to government frameworks, mitigating biases, and ensuring accuracy and inclusivity.",
+                "tag": "p"
+            },
+            {
+                "content": "This training will help build confidence in using emerging technologies appropriately, safeguarding public trust, and enabling civil servants to make informed decisions about AI implementation that align with Civil Service values and data protection requirements.",
+                "tag": "p"
+            },
+            {
+                "content": "At the Central Digital and Data Office (CDDO) we ran user research across government and collaborated with leading tech firms to make available free high quality e-learning courses on various aspects of AI.",
+                "tag": "p"
+            },
+            {
+                "content": "Who the courses are for\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The courses are for all civil servants who are new to AI or are interested in learning more about this technology and its business or ethical implications. Some courses are more technical than others, but each section includes at least one course that introduces the key concepts.",
+                "tag": "p"
+            },
+            {
+                "content": "What the courses include",
+                "tag": "h2"
+            },
+            {
+                "content": "The new AI courses on Civil Service Learning (login required) are designed to enhance AI skills and knowledge in key areas including:",
+                "tag": "p"
+            },
+            {
+                "content": "The courses are self-paced and use a mix of articles, videos, and optional tasks.",
+                "tag": "p"
+            },
+            {
+                "content": "Government Skills has also published a new Artificial Intelligence page on Prospectus Online. Here you\u2019ll find a series of off-the-shelf courses made available through the Learning Frameworks on more specific aspects of AI.",
+                "tag": "p"
+            },
+            {
+                "content": "You are encouraged to check your department\u2019s policy on the use of AI before using any of the tools described in the courses.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next",
+                "tag": "h2"
+            },
+            {
+                "content": "Read more\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Artificial Intelligence: introducing our series of online courses on generative AI",
+                "tag": "p"
+            }
+        ],
+        "link": "https://cddo.blog.gov.uk/2024/12/19/artificial-intelligence-must-have-skills-for-the-future/",
+        "blog": "Central Digital and Data Office",
+        "blog_link": "https://cddo.blog.gov.uk",
+        "description": "Discover how to harness the power of Artificial Intelligence with the latest  online courses by CDDO."
+    },
+    {
+        "title": "Digital Planning Programme: our year in review\u00a0",
+        "authors": [
+            "Digital Planning"
+        ],
+        "posted_on": "2024-12-19T09:24:57",
+        "categories": [
+            "Digital Planning"
+        ],
+        "content": [
+            {
+                "content": "As we wrap up 2024, we\u2019re reflecting on another exciting year for the MHCLG Digital Planning Programme. This year our journey to transform England\u2019s planning system to make it fit for the 21st century has continued, with breakthrough innovations, stronger partnerships and real results that are making a difference across the country.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before we dive into our achievements, we want to thank the incredible network of Local Planning Authorities (LPAs), industry partners, the Open Digital Planning (ODP) and wider planning community, other government departments and colleagues at MHCLG, who\u2019ve been a massive part of our success this year. Your collaboration and insights have been integral to our progress.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2024 milestones\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Across the team, we\u2019ve been working to develop tools, software, and guidance for planners.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our work with PropTech (property technology)",
+                "tag": "h3"
+            },
+            {
+                "content": "Round 4 of the PropTech Innovation Fund applications closed at the end of last year, with a record number of submissions. That resulted in us supporting 37 projects across 49 LPAs, focusing on improving citizen engagement, site identification and speeding up the local plans process. We\u2019ll be reporting on their outcomes next year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Meanwhile, here are a few highlights from some of the other PropTech projects which have seen results:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To help LPAs adopt digital consultation tools, we launched a digital citizen engagement toolkit \u2013 a user-centred guide they can easily follow.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Open Digital Planning community",
+                "tag": "h3"
+            },
+            {
+                "content": "2024 has been a landmark year for our Open Digital Planning (ODP) community, which continues to go from strength to strength. This year LPAs supported by the PropTech funding have joined the community and thanks to our Digital Planning Improvement Fund, an additional 43 councils have also come on board, bringing the total number to 107 members. These forward-thinking councils are benefiting from training, resources and networking and are leading the way to develop a more efficient, data-driven planning system.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To support them on their digital journey this year we have launched a Digital Planning Maturity Assessment, which many have completed. This crucial first step helps authorities understand their current digital capabilities and maps out their journey towards a more digitally enabled future.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Better access to planning data",
+                "tag": "h3"
+            },
+            {
+                "content": "A vital part of this is to improve and publish datasets on the Planning Data platform, which has seen further growth this year, establishing itself as the authoritative hub for planning data across the country. With 158 high-quality datasets now available, we are supporting LPAs to add to this valuable, open resource which both the public and private sectors can trust, transforming how data is accessed and used to transform the planning system.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Faster and more efficient planning decisions",
+                "tag": "h3"
+            },
+            {
+                "content": "Members of the ODP community have continued to work together to build software products which can dramatically improve people\u2019s experiences of making and processing planning applications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Faster plan making",
+                "tag": "h3"
+            },
+            {
+                "content": "We\u2019re also transforming how planners create or update their local plans and have this year been developing a new service which is due to launch soon. The new web pages for planners will bring all essential guidance and tools \u2013 both existing and new \u2013 into one user-friendly place, to help speed up the plan-making process. This has all been shaped by extensive user testing and feedback to meet LPA needs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Championing collaboration\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "\u00a0We\u2019ve been working with more LPAs than ever this year, particularly those in our ODP community. While virtual collaboration has been invaluable, a real highlight was our face-to-face gathering in Newcastle, in October. There we welcomed over 125 attendees from 35 LPAs and public sector organisations, for exciting discussions about digital maturity and planning innovation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our team also shared insights at major industry events, including the UK\u2019s Real Estate Investment and Infrastructure Forum (UKREiiF) and the Public Sector Connect DigiTech event, highlighting how we\u2019re #DoingPlanningDifferently.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At UKREiiF, MHCLG also signed a new partnership with the Digital Task Force for Planning to accelerate the use of cutting-edge property technology to speed up the planning process so we can build the homes and infrastructure England needs.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This year, we collaborated with Ordnance Survey to help LPAs navigate data sharing under the Public Sector Geospatial Agreement (PSGA), ensuring compliance while unlocking the potential of open data. By aligning our Planning Data platform with PSGA conditions, we provided clear guidance to support better digital planning processes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We also partnered with Faculty AI, a specialist in applying artificial intelligence (AI) and technology, to explore the potential of using AI to extract specific information buried in planning documents. By harnessing AI technology, we\u2019ve discovered promising ways to process and extract crucial information that was previously time-consuming to access.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re always keen to invest in the next generation of planners and this year visited Kent and Sheffield universities, sharing insights from our digital transformation journey to inspire the planning students who will be shaping tomorrow\u2019s communities.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Recognising excellence\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This year, the programme was shortlisted for several prestigious awards, including Programme of the Year in the APM Project Management Awards and Digital Leaders 100 for Digital Public Service Innovation. Programme Director, Milan Bogunovic and Head of Adoption, Engagement and Innovation, Bridget Wilkins were also finalists in the Government Transformation Awards, celebrating their efforts to drive change in public services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "There\u2019s been some big foundational steps taken this year and in 2025 we\u2019re looking forward to working with more LPAs to improve data collection and releasing more resources for planning teams preparing and updating local plans.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As we gear up for 2025, we\u2019ve a lot to look forward to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For more information about the Digital Planning programme follow us on LinkedIn and X to stay connected, and subscribe to our newsletter for the latest updates.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can also take a look at this previous MHCLG Digital blog about the programme, which was chosen as a case study to showcase the department's digital goals and progress.",
+                "tag": "p"
+            },
+            {
+                "content": "Wishing you a joyful December, happy holidays, and a bright start to the new year, from everyone at MHCLG Digital Planning.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2024/12/19/digital-planning-programme-our-year-in-review/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "In this blog the Digital Planning team review the programme\u2019s highlights from 2024. From increased data collection to developing new tools, collaboration to innovation, the team has worked alongside Local Planning Authorities, the planning community and other colleagues in government to make planning faster, data-driven, and more citizen-friendly. "
+    },
+    {
         "title": "What winter bug do I have? Know the signs and symptoms\u00a0",
         "authors": [
             "Blog Editor"
