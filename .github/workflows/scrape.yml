@@ -4,8 +4,9 @@ on:
   # Manually trigger the workflow  
   workflow_dispatch:
   # Or on a schedule
-  schedule:
-  - cron: "0 20 * * *"
+  # schedule:
+  # - cron: "0 20 * * *"
+  # Commented out to stop the web scrapping
 
 jobs:
   scrape:
